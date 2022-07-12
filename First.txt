@@ -1,1 +1,1 @@
-This is the fisrt file with new changes in it 
+This is the fisrt file with new changes in it . Now doing again for stagged changes view
