@@ -1,1 +1,3 @@
 This is the fisrt file with new changes in it . Now doing again for stagged changes view -----!!!!!@@@@####
+
+this is new line
